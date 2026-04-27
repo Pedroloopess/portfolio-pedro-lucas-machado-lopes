@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tech Store | Eletrônicos</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="header">
+  <div class="logo">Tech Store</div>
+
+  <button class="menu-toggle" id="menuToggle">☰</button>
+
+  <nav class="navbar" id="navbar">
+    <a href="#inicio">Início</a>
+    <a href="#produtos">Produtos</a>
+    <a href="#sobre">Sobre</a>
+    <a href="#contato">Contato</a>
+  </nav>
+</header>
+
+<section class="hero" id="inicio">
+  <div class="hero-text">
+    <h1>Os melhores eletrônicos em um só lugar</h1>
+    <p>Produtos modernos com os melhores preços.</p>
+    <a href="#produtos" class="btn">Ver Produtos</a>
+  </div>
+</section>
+
+<section class="produtos" id="produtos">
+  <h2>Nossos Produtos</h2>
+
+  <div class="cards">
+
+    <div class="card">
+      <h3>Smartphone Pro</h3>
+      <p>Alta performance e câmera avançada.</p>
+      <span>R$ 1.999</span>
+      <button onclick="adicionarCarrinho('Smartphone Pro')">Adicionar</button>
+    </div>
+
+    <div class="card">
+      <h3>Notebook Ultra</h3>
+      <p>Ideal para estudos e programação.</p>
+      <span>R$ 3.499</span>
+      <button onclick="adicionarCarrinho('Notebook Ultra')">Adicionar</button>
+    </div>
+
+    <div class="card">
+      <h3>Fone Bluetooth</h3>
+      <p>Som de alta qualidade.</p>
+      <span>R$ 199</span>
+      <button onclick="adicionarCarrinho('Fone Bluetooth')">Adicionar</button>
+    </div>
+
+  </div>
+</section>
+
+<section class="sobre" id="sobre">
+  <h2>Sobre</h2>
+  <p>Projeto desenvolvido com HTML, CSS e JavaScript para simular uma loja virtual.</p>
+</section>
+
+<section class="carrinho">
+  <h2>Carrinho</h2>
+  <p id="mensagemCarrinho">Nenhum produto adicionado.</p>
+</section>
+
+<footer id="contato">
+  <p>© 2026 Tech Store - Pedro Lucas Machado Lopes</p>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
