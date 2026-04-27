@@ -1,9 +1,10 @@
 # Pedro Lucas Machado Lopes
-> Estudante da UNICID - Universidade Cidade de São Paulo
+> Estudante de Análise e Desenvolvimento de Sistemas (ADS) - UNICID
 
 ---
 
-### 📫 Contato & Redes Sociais
+## 📫 Contato & Redes
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-machado-a3316a36b)
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrolucaspsp503@gmail.com)
@@ -12,48 +13,52 @@
 
 ---
 
-### 👨‍💻 Sobre
-Atualmente sou estudante da **UNICID (Universidade Cidade de São Paulo)** e trabalho como **operador de telemarketing ativo**.  
+## 👨‍💻 Sobre
 
-Tenho experiência prática em atendimento ao cliente, comunicação e resolução de problemas, além de já ter atuado como freelancer (garçom), o que fortaleceu minhas habilidades interpessoais e adaptabilidade.
+Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** pela **UNICID**.
 
-Tenho interesse em tecnologia, especialmente no uso de **Inteligência Artificial** e **programação web básica com HTML**, buscando evoluir constantemente na área.
+Atualmente trabalho como **operador de telemarketing ativo**, onde desenvolvo habilidades como comunicação, resolução de problemas e foco em metas.
+
+Também possuo experiência como freelancer, atuando como garçom, o que fortaleceu minha **adaptabilidade, trabalho em equipe e organização**.
+
+Tenho interesse em tecnologia, especialmente em **desenvolvimento web e uso de Inteligência Artificial**, buscando evoluir constantemente na área.
 
 ---
 
-### 🧠 Habilidades
+## 🧠 Habilidades
 
-**💻 Técnicas:**
+### 💻 Técnicas
 - HTML (básico)
+- JavaScript (básico)
+- Python (básico)
 - Uso de Inteligência Artificial
-- Noções de tecnologia e ferramentas digitais
+- Lógica de programação
 
-**🤝 Socioemocionais:**
-- Liderança
-- Trabalho em equipe
-- Comunicação eficaz
-- Adaptabilidade
-- Proatividade
+### 🤝 Socioemocionais
+- Liderança  
+- Trabalho em equipe  
+- Comunicação eficaz  
+- Proatividade  
+- Adaptabilidade  
 
 ---
 
-### 🛠 Tecnologias e Ferramentas
+## 🛠 Tecnologias e Ferramentas
 
-![HTML](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![IA](https://img.shields.io/badge/AI-Inteligência%20Artificial-blue?style=for-the-badge)
 
 ---
 
-### 📂 Portfólio de Projetos
+## 📂 Portfólio de Projetos
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Projeto 1** | Em desenvolvimento | Em breve |
-| **Projeto 2** | Em desenvolvimento | Em breve |
+| 🛒 **Tech Store - Site de Vendas** | Site de e-commerce de eletrônicos com HTML, CSS e JavaScript, incluindo menu responsivo e carrinho simulado. | [Ver Projeto](./site-vendas-eletronicos/) |
+| 📁 **Organizador de Arquivos (Python)** | Script em Python que organiza arquivos automaticamente por tipo em pastas. | [Ver Projeto](./organizador-de-arquivos-python/) |
 
 ---
-
-### 🏗 Estrutura do Repositório
-⭐ Em constante evolução na área de tecnologia.
 
 
