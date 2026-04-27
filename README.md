@@ -44,7 +44,7 @@ Tenho interesse em **desenvolvimento web e uso de Inteligência Artificial**, bu
 ## 📂 Projetos
 
 🛒 **Site de Vendas de Eletrônicos**  
-[👉 Acessar Projeto](https://github.com/Pedrolopess/Portfolio/tree/main/site-de-vendas-eletronicos)
+[👉 Acessar Projeto](https://github.com/Pedroloopess/Portfolio/tree/main/site-de-vendas-eletronicos)
 
 📁 **Organizador de Arquivos em Python**  
 [👉 Acessar Projeto](https://github.com/Pedroloopess/Portfolio/tree/main/organizador-de-arquivos-python)
