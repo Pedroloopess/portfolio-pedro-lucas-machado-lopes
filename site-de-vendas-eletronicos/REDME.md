@@ -40,3 +40,60 @@ Este projeto foi desenvolvido para praticar conceitos de:
 ---
 
 ## 📂 Estrutura do Projeto
+
+## 🗄️ Banco de Dados (MER)
+
+```mermaid
+erDiagram
+    CLIENTE ||--o{ PEDIDO : faz
+    PEDIDO ||--o{ ITEM_PEDIDO : possui
+    PRODUTO ||--o{ ITEM_PEDIDO : aparece_em
+    CATEGORIA ||--o{ PRODUTO : possui
+    PEDIDO ||--|| PAGAMENTO : possui
+
+    CLIENTE {
+        int id_cliente PK
+        string nome
+        string email
+        string telefone
+        string endereco
+    }
+
+    CATEGORIA {
+        int id_categoria PK
+        string nome
+    }
+
+    PRODUTO {
+        int id_produto PK
+        string nome
+        string descricao
+        decimal preco
+        int estoque
+        int id_categoria FK
+    }
+
+    PEDIDO {
+        int id_pedido PK
+        date data_pedido
+        string status
+        decimal valor_total
+        int id_cliente FK
+    }
+
+    ITEM_PEDIDO {
+        int id_item PK
+        int quantidade
+        decimal preco_unitario
+        decimal subtotal
+        int id_pedido FK
+        int id_produto FK
+    }
+
+    PAGAMENTO {
+        int id_pagamento PK
+        string forma_pagamento
+        string status_pagamento
+        date data_pagamento
+        int id_pedido FK
+    }
