@@ -1,160 +1,108 @@
-# 👨‍💻 Pedro Lucas Machado Lopes
-
-🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS) - UNICID
-
----
-
-# 📫 Contato
-
-[🔗 LinkedIn](https://www.linkedin.com/in/pedro-machado-a3316a36b)
-
-[📧 Email](mailto:pedrolucaspsp503@gmail.com)
-
-[📄 Currículo](./Pedro_Lucas_Machado_Lopes_CV.pdf)
+# Pedro Lucas Machado Lopes
+> Estudante de Análise e Desenvolvimento de Sistemas (ADS)
 
 ---
 
-# 🚀 Sobre Mim
+### 📫 Contato & Redes Sociais
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas na UNICID**, apaixonado por tecnologia, desenvolvimento e Inteligência Artificial.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pedro%20Machado-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-machado-a3316a36b)
 
-Atualmente trabalho como **operador de telemarketing ativo**, desenvolvendo habilidades como:
+[![E-mail](https://img.shields.io/badge/Email-pedrolucaspsp503%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrolucaspsp503@gmail.com)
 
-- Comunicação
-- Negociação
-- Resolução de problemas
-- Trabalho sob pressão
-- Foco em metas
+[![Currículo](https://img.shields.io/badge/Currículo-Visualizar-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)](./Pedro_Lucas_Machado_Lopes_CV.pdf)
 
-Também possuo experiência como freelancer, atuando como garçom, fortalecendo habilidades como:
+### 👨‍💻 Sobre
 
-- Adaptabilidade
-- Organização
-- Trabalho em equipe
-- Atendimento ao público
+Atualmente cursando Análise e Desenvolvimento de Sistemas na UNICID. Sou apaixonado por tecnologia, desenvolvimento de software e Inteligência Artificial, buscando constantemente evolução técnica e profissional através de projetos práticos.
 
-Tenho grande interesse em:
+Tenho foco em desenvolvimento web, Engenharia de Prompt, Inteligência Artificial e criação de produtos digitais.
 
-- Desenvolvimento Web
-- Inteligência Artificial
-- Engenharia de Prompt
-- UX/UI
-- Automação
-- Desenvolvimento de Produtos Digitais
+Atualmente trabalho como operador de telemarketing ativo, desenvolvendo habilidades como comunicação, resolução de problemas, negociação e foco em metas.
+
+Também possuo experiência como freelancer, atuando diretamente com atendimento ao público e trabalho em equipe.
+
+* **Habilidades Técnicas:** HTML5, CSS3, JavaScript, Python, Git & GitHub, Engenharia de Prompt, Bubble.io, Jitsi Meet e Inteligência Artificial.
+* **Habilidades Socioemocionais:** Trabalho em equipe, comunicação, proatividade, adaptabilidade e pensamento crítico.
+* **Experiência/Projetos Relevantes:** Desenvolvimento de projetos acadêmicos envolvendo Machine Learning, Engenharia de Prompt, desenvolvimento web, videoconferência com Jitsi Meet e aplicações com Inteligência Artificial.
 
 ---
 
-# 📂 Portfólio de Projetos
+### 🛠 Minhas Ferramentas Favoritas
 
-Este repositório reúne projetos acadêmicos, práticos e experimentais desenvolvidos durante minha trajetória na área de tecnologia, com foco em:
+#### 💻 Linguagens e Tecnologias
 
-- Inteligência Artificial
-- Engenharia de Prompt
-- Desenvolvimento Web
-- Engenharia de Software
-- Machine Learning
-- Automação
-- UX/UI
-- Desenvolvimento No-Code
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 🤖 Inteligência Artificial & Engenharia de Prompt
+#### 🗄️ Banco de Dados
+
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+---
+
+#### 🤖 Inteligência Artificial & Desenvolvimento
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+![Bubble](https://img.shields.io/badge/Bubble.io-120B2D?style=for-the-badge&logo=bubble&logoColor=white)
+
+![Jitsi](https://img.shields.io/badge/Jitsi-97979A?style=for-the-badge&logo=jitsi&logoColor=white)
+
+---
+
+### 📂 Portfólio de Projetos
+
+#### 🤖 Inteligência Artificial & Engenharia de Software
 
 | Projeto | Descrição | Link |
-|---|---|---|
-| **SM1 - Corrida do Prompt** | Projeto focado em Engenharia de Prompt, explorando estratégias para melhorar a comunicação com modelos de Inteligência Artificial. Foram realizados testes comparativos de prompts, refinamento de instruções e análise da qualidade das respostas geradas por IA. | [🔗 Ver Projeto](https://github.com/Pedroloopess/portfolio-pedro-lucas-machado-lopes/tree/main/A_Corrida_do_Prompt) |
-| **SM2 - Laboratório de Classificação Visual** | Desenvolvimento de um laboratório de Machine Learning utilizando Teachable Machine para treinamento de modelos de classificação visual. O projeto explora reconhecimento de imagens, treinamento de IA e análise de resultados em tempo real. | [🔗 Ver Projeto](https://github.com/Pedroloopess/portfolio-pedro-lucas-machado-lopes/tree/main/Laboratorio_de_clasifica%C3%A7ao_visual) |
-| **SM3 - Batalha de Modelos** | Projeto voltado para comparação entre diferentes modelos de Inteligência Artificial, avaliando desempenho, qualidade de respostas, organização de prompts em XML e eficiência na execução de tarefas específicas. | [🔗 Ver Projeto](https://github.com/Pedroloopess/portfolio-pedro-lucas-machado-lopes/tree/main/Batalha_de_Modelos) |
-| **SM4 - Engenharia Reversa** | Estudo e documentação reversa de sistemas digitais, com foco em análise estrutural, fluxos internos, arquitetura de software e funcionamento de aplicações já existentes. | [🔗 Ver Projeto](https://github.com/Pedroloopess/portfolio-pedro-lucas-machado-lopes/tree/main/Engenharia_Reversa) |
-| **SM5 - Do Clone ao MVP+** | Desenvolvimento de um produto digital evoluindo de um clone funcional até um MVP completo, aplicando conceitos de UX/UI, engenharia de software, prototipação e integração de Inteligência Artificial. | [🔗 Ver Projeto](https://github.com/Pedroloopess/portfolio-pedro-lucas-machado-lopes/tree/main/Do_Clone_ao_MVP) |
-| **SM6 - Engenharia de Software e IA com Bubble.io** | Desenvolvimento de aplicações utilizando ferramentas no-code com integração de Inteligência Artificial. O projeto explora criação de sistemas modernos, automações e prototipação rápida utilizando Bubble.io. | [🔗 Ver Projeto](https://github.com/Pedroloopess/portfolio-pedro-lucas-machado-lopes/tree/main/_nexus_flow_.ai) |
-| **SM7 - Desenvolvimento de App de Videoconferência com Manus AI e Jitsi** | Criação de uma aplicação de videoconferência utilizando Manus AI e integração com a plataforma Jitsi Meet, focando em comunicação em tempo real, experiência do usuário e funcionalidades colaborativas. | [🔗 Ver Projeto](https://github.com/Pedroloopess/portfolio-pedro-lucas-machado-lopes/tree/main/devconnect-web) |envolvimento de aplicativo de videoconferência utilizando Manus AI e Jitsi Meet. | 🚧 Em desenvolvimento |
+| :--- | :--- | :---: |
+| **SM1 - Corrida do Prompt** | Projeto focado em Engenharia de Prompt, explorando estratégias para melhorar a comunicação com modelos de Inteligência Artificial através da criação e refinamento de prompts. | [Ver Projeto](https://github.com/Pedroloopess/portfolio-pedro-lucas-machado-lopes/tree/main/A_Corrida_do_Prompt) |
+| **SM2 - Laboratório de Classificação Visual** | Desenvolvimento de um laboratório de Machine Learning utilizando Teachable Machine para treinamento de modelos de classificação visual e reconhecimento de imagens. | [Ver Projeto](https://github.com/Pedroloopess/portfolio-pedro-lucas-machado-lopes/tree/main/Laboratorio_de_clasifica%C3%A7ao_visual) |
+| **SM3 - Batalha de Modelos** | Comparação entre diferentes modelos de Inteligência Artificial, avaliando desempenho, respostas e eficiência na resolução de tarefas utilizando prompts estruturados em XML. | [Ver Projeto](https://github.com/Pedroloopess/portfolio-pedro-lucas-machado-lopes/tree/main/Batalha_de_Modelos) |
+| **SM4 - Engenharia Reversa** | Estudo e documentação reversa de sistemas digitais, analisando arquitetura, fluxos internos e funcionamento estrutural de aplicações. | [Ver Projeto](https://github.com/Pedroloopess/portfolio-pedro-lucas-machado-lopes/tree/main/Engenharia_Reversa) |
+| **SM5 - Do Clone ao MVP+** | Desenvolvimento de um produto digital evoluindo de um clone funcional até um MVP completo, aplicando conceitos de UX/UI, prototipação e Inteligência Artificial. | [Ver Projeto](https://github.com/Pedroloopess/portfolio-pedro-lucas-machado-lopes/tree/main/Do_Clone_ao_MVP) |
+| **SM6 - Engenharia de Software e IA com Bubble.io** | Desenvolvimento de aplicações utilizando ferramentas no-code integradas com Inteligência Artificial, focando em automação, prototipação rápida e desenvolvimento visual. | [Ver Projeto](https://github.com/Pedroloopess/portfolio-pedro-lucas-machado-lopes/tree/main/_nexus_flow_.ai) |
+| **SM7 - Desenvolvimento de App de Videoconferência com Manus AI e Jitsi** | Criação de uma aplicação de videoconferência utilizando Manus AI e integração com a plataforma Jitsi Meet, focando em comunicação em tempo real e experiência do usuário. | [Ver Projeto](https://github.com/Pedroloopess/portfolio-pedro-lucas-machado-lopes/tree/main/devconnect-web) |
 
 ---
 
-# 🧠 Habilidades
+#### 🗄️ Banco de Dados
 
-## 💻 Técnicas
-
-- HTML5
-- CSS3
-- JavaScript
-- Python
-- Git & GitHub
-- Engenharia de Prompt
-- Lógica de Programação
-- Inteligência Artificial
-- Bubble.io
-- Jitsi Meet
+| Projeto | Descrição | Link |
+| :--- | :--- | :---: |
+| **Organizador de Arquivos em Python** | Sistema desenvolvido em Python para organização automática de arquivos e diretórios, utilizando lógica de categorização, manipulação e armazenamento de dados. | [Ver Projeto](https://github.com/Pedroloopess/portfolio-pedro-lucas-machado-lopes/tree/main/organizador-de-arquivos-python) |
+| **Site de Vendas de Eletrônicos** | Projeto de e-commerce desenvolvido para gerenciamento e exibição de produtos eletrônicos, aplicando conceitos relacionados à organização de dados, produtos, categorias e experiência do usuário. | [Ver Projeto](https://github.com/Pedroloopess/portfolio-pedro-lucas-machado-lopes/tree/main/site-de-vendas-eletronicos) |
 
 ---
 
-## 🤝 Socioemocionais
+### 🏗 Estrutura do Repositório
 
-- Liderança
-- Comunicação
-- Trabalho em equipe
-- Adaptabilidade
-- Organização
-- Proatividade
-- Pensamento crítico
+Abaixo, a organização deste repositório para facilitar a navegação:
 
----
-
-# 📂 Projetos Extras
-
-## 🛒 Site de Vendas de Eletrônicos
-
-Projeto de e-commerce com foco em acessibilidade, design moderno e experiência do usuário.
-
-[👉 Acessar Projeto](https://github.com/Pedroloopess/Portfolio/tree/main/site-de-vendas-eletronicos)
+- `root/`: Arquivo principal de apresentação do portfólio.
+- `/A_Corrida_do_Prompt/`: Projeto de Engenharia de Prompt e IA.
+- `/Laboratorio_de_clasificaçao_visual/`: Projeto de classificação visual com Machine Learning.
+- `/Batalha_de_Modelos/`: Comparação e análise de modelos de IA.
+- `/Engenharia_Reversa/`: Documentação e análise reversa de sistemas.
+- `/Do_Clone_ao_MVP/`: Desenvolvimento de produto digital e MVP.
+- `/_nexus_flow_.ai/`: Aplicações com IA e Bubble.io.
+- `/devconnect-web/`: Aplicação de videoconferência com Manus AI e Jitsi Meet.
+- `/organizador-de-arquivos-python/`: Sistema organizador de arquivos em Python.
+- `/site-de-vendas-eletronicos/`: Projeto de e-commerce para venda de eletrônicos.
 
 ---
 
-## 📁 Organizador de Arquivos em Python
-
-Sistema automatizado para organização inteligente de arquivos utilizando Python.
-
-[👉 Acessar Projeto](https://github.com/Pedroloopess/Portfolio/tree/main/organizador-de-arquivos-python)
-
----
-
-# 🏗 Estrutura do Repositório
-
-```bash
-root/
-│
-├── A_Corrida_do_Prompt/
-├── Laboratorio_de_clasificaçao_visual/
-├── Batalha_de_Modelos/
-├── Engenharia_Reversa/
-├── Do_Clone_ao_MVP/
-├── _nexus_flow_.ai/
-├── devconnect-web/
-├── site-de-vendas-eletronicos/
-└── organizador-de-arquivos-python/
-```
-
-Cada pasta contém:
-
-- Código-fonte
-- Documentação
-- README específico
-- Recursos utilizados no projeto
-
----
-
-# 🎯 Objetivo
-
-Busco uma oportunidade de **estágio na área de tecnologia**, visando:
-
-- Evoluir como desenvolvedor
-- Aplicar conhecimentos técnicos na prática
-- Participar de projetos reais
-- Aprender novas tecnologias
-- Crescer profissionalmente na área de desenvolvimento e Inteligência Artificial
-
----
-
-# ⭐ Sempre evoluindo na área de tecnologia
+⭐ Sempre evoluindo na área de tecnologia
