@@ -1,4 +1,3 @@
-````md
 # 🚀 NexusFlow AI
 
 ## 📖 Engenharia de Software e IA com Bubble.io
@@ -15,10 +14,10 @@ Explorar o desenvolvimento de aplicações no-code utilizando a plataforma Bubbl
 
 # 🔗 Links do Projeto
 
-| Tipo | Link |
-|---|---|
-| 🌐 Aplicativo Publicado | https://pedrolucasp503.bubbleapps.io/version-test |
-| 📂 Banco de Dados CSV | [Download CSV ActivityFeed](./database/export_All-ActivityFeeds_2026-05-09_00-08-44.csv) |
+| Tipo                    | Link                                                                                     |
+| ----------------------- | ---------------------------------------------------------------------------------------- |
+| 🌐 Aplicativo Publicado | https://pedrolucasp503.bubbleapps.io/version-test                                        |
+| 📂 Banco de Dados CSV   | [Download CSV ActivityFeed](./database/export_All-ActivityFeeds_2026-05-09_00-08-44.csv) |
 
 > ⚠️ O aplicativo está registrado em outro e-mail devido a problemas de acesso durante o desenvolvimento.
 
@@ -28,18 +27,18 @@ Explorar o desenvolvimento de aplicações no-code utilizando a plataforma Bubbl
 
 O **NexusFlow AI** é uma plataforma inteligente de gerenciamento de projetos inspirada em ferramentas modernas como:
 
-- Notion
-- ClickUp
-- Monday
-- Linear
+* Notion
+* ClickUp
+* Monday
+* Linear
 
 O sistema foi desenvolvido com foco em:
 
-- Organização de tarefas
-- Gestão de equipes
-- Controle de produtividade
-- Automação de processos
-- Assistência por Inteligência Artificial
+* Organização de tarefas
+* Gestão de equipes
+* Controle de produtividade
+* Automação de processos
+* Assistência por Inteligência Artificial
 
 A aplicação possui interface moderna estilo SaaS, responsividade mobile-first e dashboards analíticos.
 
@@ -48,74 +47,80 @@ A aplicação possui interface moderna estilo SaaS, responsividade mobile-first 
 # 📊 Funcionalidades Implementadas
 
 ## 📌 Gestão de Projetos
-- Criar projetos
-- Editar projetos
-- Excluir projetos
-- Gerenciar equipes
-- Definir prioridades
-- Alterar status
+
+* Criar projetos
+* Editar projetos
+* Excluir projetos
+* Gerenciar equipes
+* Definir prioridades
+* Alterar status
 
 ## ✅ Sistema Kanban
-- Backlog
-- Em andamento
-- Revisão
-- Concluído
+
+* Backlog
+* Em andamento
+* Revisão
+* Concluído
 
 ## 🤖 Nexus AI Assistant
+
 Assistente integrado com IA para:
-- Resumir atividades
-- Gerar relatórios
-- Detectar atrasos
-- Sugerir melhorias
-- Organizar produtividade
+
+* Resumir atividades
+* Gerar relatórios
+* Detectar atrasos
+* Sugerir melhorias
+* Organizar produtividade
 
 ## 🔔 Sistema de Notificações
-- Atualizações em tempo real
-- Alertas automáticos
-- Histórico de atividades
+
+* Atualizações em tempo real
+* Alertas automáticos
+* Histórico de atividades
 
 ## 📈 Dashboard Inteligente
-- Projetos ativos
-- Tarefas pendentes
-- Produtividade da equipe
-- Feed de atividades
-- Métricas de desempenho
+
+* Projetos ativos
+* Tarefas pendentes
+* Produtividade da equipe
+* Feed de atividades
+* Métricas de desempenho
 
 ---
 
 # 🗃️ Modelagem de Dados
 
-| Tabela | Campos principais |
-|---|---|
-| Usuário | ID, nome, e-mail, cargo, foto_perfil |
-| Projeto | titulo, descricao, prioridade, status |
-| Tarefa | titulo, descricao, prazo, prioridade |
-| Comentário | usuario, tarefa, mensagem |
-| Notificação | usuario, tipo, descricao |
-| ActivityFeed | ator, ação, descrição |
+| Tabela       | Campos principais                     |
+| ------------ | ------------------------------------- |
+| Usuário      | ID, nome, e-mail, cargo, foto_perfil  |
+| Projeto      | titulo, descricao, prioridade, status |
+| Tarefa       | titulo, descricao, prazo, prioridade  |
+| Comentário   | usuario, tarefa, mensagem             |
+| Notificação  | usuario, tipo, descricao              |
+| ActivityFeed | ator, ação, descrição                 |
 
 ---
 
 # 🔒 Regras de Privacidade
 
-- Apenas membros autorizados podem acessar projetos específicos
-- Usuários visualizam apenas dados relacionados às suas permissões
-- Controle de acesso baseado em funções
-- Sessões autenticadas e protegidas
-- Privacidade configurada utilizando regras nativas do Bubble.io
+* Apenas membros autorizados podem acessar projetos específicos
+* Usuários visualizam apenas dados relacionados às suas permissões
+* Controle de acesso baseado em funções
+* Sessões autenticadas e protegidas
+* Privacidade configurada utilizando regras nativas do Bubble.io
 
 ---
 
 # ⚙️ Workflows Implementados
 
-- Criação automática de tarefas
-- Atualização dinâmica de status
-- Sistema de comentários
-- Upload de arquivos
-- Feed de atividades
-- Notificações automáticas
-- Navegação entre páginas
-- Atualização em tempo real
+* Criação automática de tarefas
+* Atualização dinâmica de status
+* Sistema de comentários
+* Upload de arquivos
+* Feed de atividades
+* Notificações automáticas
+* Navegação entre páginas
+* Atualização em tempo real
 
 ---
 
@@ -127,9 +132,7 @@ O Bubble.io não disponibiliza acesso completo ao código-fonte da aplicação, 
 
 ### 1. Exportação de Dados
 
-```txt
 Settings → API → Enable Data API
-````
 
 Exportar tabelas:
 
@@ -171,14 +174,12 @@ Formatos:
 
 # 📂 Estrutura do Projeto
 
-```txt
 NexusFlow/
 │
-├── readme_nexus_flow_ai.md
+├── nexus_readme.md
 │
 └── database/
-    └── export_All-ActivityFeeds_2026-05-09_00-08-44.csv
-```
+└── export_All-ActivityFeeds_2026-05-09_00-08-44.csv
 
 ---
 
@@ -198,6 +199,3 @@ Pedro Machado
 # ⭐ Considerações Finais
 
 O NexusFlow AI demonstra como ferramentas no-code podem ser utilizadas para desenvolver aplicações modernas e funcionais integradas com Inteligência Artificial, reduzindo tempo de desenvolvimento e permitindo rápida prototipagem de soluções SaaS.
-
-```
-```
