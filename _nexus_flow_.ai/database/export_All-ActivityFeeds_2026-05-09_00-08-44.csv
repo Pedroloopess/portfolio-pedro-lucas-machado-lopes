@@ -1,0 +1,7 @@
+"action_type","actor","description","project","task","Creation Date","Modified Date"
+"task_created","testuser@example.com","Zephyr created task 'Design token setup' in Phoenix Rebrand.","1778284153525x443641252289028300","1778284153897x231221972884695140","May 8, 2026 8:49 pm","May 8, 2026 8:49 pm"
+"comment_added","testuser@example.com","Zephyr added a comment on 'Overdue bug triage'.","1778284153525x773507817547069600","1778284154005x605181195573677700","May 8, 2026 8:49 pm","May 8, 2026 8:49 pm"
+"task_completed","talon.reeves@pmworld.net","Zephyr marked 'Completed onboarding flow' as Done.","1778284153525x443641252289028300","1778284154006x777248700720496300","May 8, 2026 8:49 pm","May 8, 2026 8:49 pm"
+"task_updated","mirela.voss@designhub.co","Mirela updated status of 'Write test cases for login' to In Progress.","1778284153525x415508195246526000","1778284154005x391745597270991360","May 8, 2026 8:49 pm","May 8, 2026 8:49 pm"
+"member_added","mirela.voss@designhub.co","Mirela was added to project Stellar Analytics Dashboard.","1778284153525x415508195246526000","1778284154068x399234116677800200","May 8, 2026 8:49 pm","May 8, 2026 8:49 pm"
+"task_assigned","testuser@example.com","Zephyr assigned 'Update roadmap doc' to themselves.","1778284153525x773507817547069600","1778284154068x672609527833787500","May 8, 2026 8:49 pm","May 8, 2026 8:49 pm"
