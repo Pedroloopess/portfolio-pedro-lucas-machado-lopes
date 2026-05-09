@@ -5,9 +5,9 @@
 
 ## 📫 Contato
 
-[🔗 LinkedIn](https://www.linkedin.com/in/pedro-machado-a3316a36b)  
-[📧 Email](mailto:pedrolucaspsp503@gmail.com)  
-[📄 Currículo](./Pedro_Lucas_Machado_Lopes_CV.pdf)
+[🔗 LinkedIn](https://www.linkedin.com/in/pedro-machado-a3316a36b)  pedro-machado
+[📧 Email](mailto:pedrolucaspsp503@gmail.com)  pedrolucaspsp503@gmail.com
+[📄 Currículo](./Pedro_Lucas_Machado_Lopes_CV.pdf) Pedro_Lucas_Machado_Lopes_CV
 
 ---
 
