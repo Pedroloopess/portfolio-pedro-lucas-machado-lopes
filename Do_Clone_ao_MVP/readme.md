@@ -84,7 +84,7 @@ O projeto não teve como objetivo apenas replicar funcionalidades, mas compreend
 
 # 🤖 Questões Reflexivas
 
-## 🧠 Questão A — A Formação do Desenvolvedor na Era da IA
+## 🧠 Questão 1— A Formação do Desenvolvedor na Era da IA
 
 Com o avanço de ferramentas de Inteligência Artificial como Gemini, ChatGPT e outras plataformas generativas, o papel do desenvolvedor passa a exigir ainda mais capacidade analítica e entendimento profundo sobre problemas e sistemas.
 
@@ -102,7 +102,7 @@ Dessa forma, o desenvolvedor que souber utilizar IA de forma estratégica possui
 
 ---
 
-## ⚖️ Questão B — Originalidade vs. Plágio Digital
+## ⚖️ Questão 2 — Originalidade vs. Plágio Digital
 
 A utilização de engenharia reversa com auxílio de Inteligência Artificial passa a ser considerada plágio quando há reprodução direta de:
 
