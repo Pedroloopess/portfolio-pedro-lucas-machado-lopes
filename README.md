@@ -69,7 +69,7 @@ Também possuo experiência como freelancer, atuando diretamente com atendimento
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **SM1 - Corrida do Prompt** | Projeto focado em Engenharia de Prompt, explorando estratégias para melhorar a comunicação com modelos de Inteligência Artificial através da criação e refinamento de prompts. | [Ver Projeto](https://github.com/Pedroloopess/portfolio-pedro-lucas-machado-lopes/tree/main/A_Corrida_do_Prompt) |
+| **SM1 - Corrida do Prompt** | Projeto focado em Engenharia de Prompt, explorando estratégias para melhorar a comunicação com modelos de Inteligência Artificial através da criação e refinamento de prompts. | [Ver Projeto](https://github.com/Pedroloopess/portfolio-pedro-lucas-machado-lopes/tree/main/a-corrida-do-prompt) |
 | **SM2 - Laboratório de Classificação Visual** | Desenvolvimento de um laboratório de Machine Learning utilizando Teachable Machine para treinamento de modelos de classificação visual e reconhecimento de imagens. | [Ver Projeto](https://github.com/Pedroloopess/portfolio-pedro-lucas-machado-lopes/tree/main/Laboratorio_de_clasifica%C3%A7ao_visual) |
 | **SM3 - Batalha de Modelos** | Comparação entre diferentes modelos de Inteligência Artificial, avaliando desempenho, respostas e eficiência na resolução de tarefas utilizando prompts estruturados em XML. | [Ver Projeto](https://github.com/Pedroloopess/portfolio-pedro-lucas-machado-lopes/tree/main/Batalha_de_Modelos) |
 | **SM4 - Engenharia Reversa** | Estudo e documentação reversa de sistemas digitais, analisando arquitetura, fluxos internos e funcionamento estrutural de aplicações. | [Ver Projeto](https://github.com/Pedroloopess/portfolio-pedro-lucas-machado-lopes/tree/main/Engenharia_Reversa) |
@@ -94,11 +94,11 @@ Também possuo experiência como freelancer, atuando diretamente com atendimento
 Abaixo, a organização deste repositório para facilitar a navegação:
 
 - `root/`: Arquivo principal de apresentação do portfólio.
-- `/A_Corrida_do_Prompt/`: Projeto de Engenharia de Prompt e IA.
-- `/Laboratorio_de_clasificaçao_visual/`: Projeto de classificação visual com Machine Learning.
-- `/Batalha_de_Modelos/`: Comparação e análise de modelos de IA.
-- `/Engenharia_Reversa/`: Documentação e análise reversa de sistemas.
-- `/Do_Clone_ao_MVP/`: Desenvolvimento de produto digital e MVP.
+- `/a-corrida-do-prompt/`: Projeto de Engenharia de Prompt e IA.
+- `/laboratorio-de-clasificacao-visual/`: Projeto de classificação visual com Machine Learning.
+- `/batalha-de-modelos/`: Comparação e análise de modelos de IA.
+- `/engenharia-reversa/`: Documentação e análise reversa de sistemas.
+- `/docclone-ao-mvp/`: Desenvolvimento de produto digital e MVP.
 - `/entrega_orcafacil_bubble_/`: Aplicações com IA e Bubble.io utilizando Bubble.io.
 - `/devconnect-web/`: Aplicação de videoconferência com Manus AI e Jitsi Meet.
 - `/organizador-de-arquivos-python/`: Sistema organizador de arquivos em Python.
