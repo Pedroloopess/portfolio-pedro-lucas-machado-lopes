@@ -11,6 +11,8 @@
 
 [![Currículo](https://img.shields.io/badge/Currículo-Visualizar-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)](./Pedro_Lucas_Machado_Lopes_CV.pdf)
 
+---
+
 ### 👨‍💻 Sobre
 
 Atualmente cursando Análise e Desenvolvimento de Sistemas na UNICID. Sou apaixonado por tecnologia, desenvolvimento de software e Inteligência Artificial, buscando constantemente evolução técnica e profissional através de projetos práticos.
@@ -32,15 +34,10 @@ Também possuo experiência como freelancer, atuando diretamente com atendimento
 #### 💻 Linguagens e Tecnologias
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 
 ---
@@ -48,7 +45,6 @@ Também possuo experiência como freelancer, atuando diretamente com atendimento
 #### 🗄️ Banco de Dados
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ---
@@ -56,9 +52,7 @@ Também possuo experiência como freelancer, atuando diretamente com atendimento
 #### 🤖 Inteligência Artificial & Desenvolvimento
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-
 ![Bubble](https://img.shields.io/badge/Bubble.io-120B2D?style=for-the-badge&logo=bubble&logoColor=white)
-
 ![Jitsi](https://img.shields.io/badge/Jitsi-97979A?style=for-the-badge&logo=jitsi&logoColor=white)
 
 ---
@@ -72,7 +66,7 @@ Também possuo experiência como freelancer, atuando diretamente com atendimento
 | **SM1 - Corrida do Prompt** | Projeto focado em Engenharia de Prompt, explorando estratégias para melhorar a comunicação com modelos de Inteligência Artificial através da criação e refinamento de prompts. | [Ver Projeto](https://github.com/Pedroloopess/portfolio-pedro-lucas-machado-lopes/tree/main/a-corrida-do-prompt) |
 | **SM2 - Laboratório de Classificação Visual** | Desenvolvimento de um laboratório de Machine Learning utilizando Teachable Machine para treinamento de modelos de classificação visual e reconhecimento de imagens. | [Ver Projeto](https://github.com/Pedroloopess/portfolio-pedro-lucas-machado-lopes/tree/main/laboratorio-de-classificacao-visual) |
 | **SM3 - Batalha de Modelos** | Comparação entre diferentes modelos de Inteligência Artificial, avaliando desempenho, respostas e eficiência na resolução de tarefas utilizando prompts estruturados em XML. | [Ver Projeto](https://github.com/Pedroloopess/portfolio-pedro-lucas-machado-lopes/tree/main/batalha-de-modelos) |
-| **SM4 - Engenharia Reversa** | Estudo e documentação reversa de sistemas digitais, analisando arquitetura, fluxos internos e funcionamento estrutural de aplicações. | [Ver Projeto](https://github.com/Pedroloopess/portfolio-pedro-lucas-machado-lopes/tree/main/Engenharia_Reversa) |
+| **SM4 - Engenharia Reversa** | Estudo e documentação reversa de sistemas digitais, analisando arquitetura, fluxos internos e funcionamento estrutural de aplicações. | [Ver Projeto](https://github.com/Pedroloopess/portfolio-pedro-lucas-machado-lopes/tree/main/engenharia-reversa) |
 | **SM5 - Do Clone ao MVP+** | Desenvolvimento de um produto digital evoluindo de um clone funcional até um MVP completo, aplicando conceitos de UX/UI, prototipação e Inteligência Artificial. | [Ver Projeto](https://github.com/Pedroloopess/portfolio-pedro-lucas-machado-lopes/tree/main/do-clone-ao-mvp) |
 | **SM6 - Engenharia de Software e IA com Bubble.io** | Desenvolvimento de aplicações utilizando ferramentas no-code integradas com Inteligência Artificial, focando em automação, prototipação rápida e desenvolvimento visual. | [Ver Projeto](https://github.com/Pedroloopess/portfolio-pedro-lucas-machado-lopes/tree/main/entrega-orcafacil-bubble) |
 | **SM7 - Desenvolvimento de App de Videoconferência com Manus AI e Jitsi** | Criação de uma aplicação de videoconferência utilizando Manus AI e integração com a plataforma Jitsi Meet, focando em comunicação em tempo real e experiência do usuário. | [Ver Projeto](https://github.com/Pedroloopess/portfolio-pedro-lucas-machado-lopes/tree/main/devconnect-web) |
@@ -93,14 +87,14 @@ Também possuo experiência como freelancer, atuando diretamente com atendimento
 
 Abaixo, a organização deste repositório para facilitar a navegação:
 
-- `root/`: Arquivo principal de apresentação do portfólio.
 - `/a-corrida-do-prompt/`: Projeto de Engenharia de Prompt e IA.
-- `/laboratorio-de-clasificacao-visual/`: Projeto de classificação visual com Machine Learning.
+- `/laboratorio-de-classificacao-visual/`: Projeto de classificação visual com Machine Learning.
 - `/batalha-de-modelos/`: Comparação e análise de modelos de IA.
 - `/engenharia-reversa/`: Documentação e análise reversa de sistemas.
-- `/docclone-ao-mvp/`: Desenvolvimento de produto digital e MVP.
-- `/entrega_orcafacil_bubble_/`: Aplicações com IA e Bubble.io utilizando Bubble.io.
+- `/do-clone-ao-mvp/`: Desenvolvimento de produto digital e MVP.
+- `/entrega-orcafacil-bubble/`: Aplicações com IA e Bubble.io utilizando Bubble.io.
 - `/devconnect-web/`: Aplicação de videoconferência com Manus AI e Jitsi Meet.
+- `/gerador-de-formas-organicas/`: Projeto de geração de formas orgânicas utilizando SVG e IA.
 - `/organizador-de-arquivos-python/`: Sistema organizador de arquivos em Python.
 - `/site-de-vendas-eletronicos/`: Projeto de e-commerce para venda de eletrônicos.
 - `/projeto-musica-ia/`: Projeto de composição musical generativa com Gemini Gems e Suno AI.
