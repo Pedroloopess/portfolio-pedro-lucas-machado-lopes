@@ -100,7 +100,8 @@ A atividade teve foco nos seguintes critérios:
 
 ```bash
 📦 A_Corrida_do_Prompt
- ┣ 📜 README.md
- ┣ 📂 imagens
- ┣ 📂 prompts
- ┗ 📂 registros
+ ┣ 📂 Textos
+ ┃ ┣ 📜 Prompts.txt
+ ┃ ┗ 📜 Carta-pirata-rei.txt
+ ┣ 🖼️ imagem-barroco-marte.jpg
+ ┗ 📜 README.md
