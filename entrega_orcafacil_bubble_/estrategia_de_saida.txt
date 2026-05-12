@@ -1,0 +1,5 @@
+Estratégia de Saída - OrçaFácil
+
+Caso o sistema precise ser migrado futuramente, os dados poderão ser exportados utilizando a Data API do Bubble em formato JSON. Dessa forma, será possível reutilizar as informações em aplicações desenvolvidas em tecnologias tradicionais, como React, Node.js e bancos de dados SQL.
+
+Essa estratégia reduz o risco de dependência total da plataforma Bubble, pois os dados principais do sistema, como usuários, clientes e orçamentos, podem ser extraídos e reaproveitados em outra arquitetura.

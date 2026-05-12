@@ -1,0 +1,29 @@
+Rascunho do Banco de Dados - OrçaFácil
+
+User
+- name: text
+- email: text
+- owner: User
+
+Client
+- name: text
+- email: text
+- phone: text
+- owner: User
+
+Budget
+- title: text
+- description: text
+- value: number
+- client: Client
+- status: StatusBudget
+- owner: User
+
+Option Set
+StatusBudget
+- Pendente
+- Aprovado
+- Rejeitado
+
+Observação
+As relações foram organizadas para que Budget aponte para Client e para o User dono do registro, evitando listas grandes dentro da tabela Client.
