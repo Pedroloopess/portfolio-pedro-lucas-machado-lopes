@@ -76,6 +76,7 @@ Também possuo experiência como freelancer, atuando diretamente com atendimento
 | **SM5 - Do Clone ao MVP+** | Desenvolvimento de um produto digital evoluindo de um clone funcional até um MVP completo, aplicando conceitos de UX/UI, prototipação e Inteligência Artificial. | [Ver Projeto](https://github.com/Pedroloopess/portfolio-pedro-lucas-machado-lopes/tree/main/Do_Clone_ao_MVP) |
 | **SM6 - Engenharia de Software e IA com Bubble.io** | Desenvolvimento de aplicações utilizando ferramentas no-code integradas com Inteligência Artificial, focando em automação, prototipação rápida e desenvolvimento visual. | [Ver Projeto](https://github.com/Pedroloopess/portfolio-pedro-lucas-machado-lopes/tree/main/_nexus_flow_.ai) |
 | **SM7 - Desenvolvimento de App de Videoconferência com Manus AI e Jitsi** | Criação de uma aplicação de videoconferência utilizando Manus AI e integração com a plataforma Jitsi Meet, focando em comunicação em tempo real e experiência do usuário. | [Ver Projeto](https://github.com/Pedroloopess/portfolio-pedro-lucas-machado-lopes/tree/main/devconnect-web) |
+| **SM8 - Projeto Música & IA** | Projeto de composição generativa utilizando Gemini Gems e Suno AI para criação de um EP com 5 faixas inéditas, aplicando Engenharia de Prompt, RAG, curadoria musical e produção assistida por Inteligência Artificial. | [Ver Projeto](https://github.com/Pedroloopess/portfolio-pedro-lucas-machado-lopes/tree/main/projeto-musica-ia) |
 
 ---
 
@@ -102,6 +103,7 @@ Abaixo, a organização deste repositório para facilitar a navegação:
 - `/devconnect-web/`: Aplicação de videoconferência com Manus AI e Jitsi Meet.
 - `/organizador-de-arquivos-python/`: Sistema organizador de arquivos em Python.
 - `/site-de-vendas-eletronicos/`: Projeto de e-commerce para venda de eletrônicos.
+- `/projeto-musica-ia/`: Projeto de composição musical generativa com Gemini Gems e Suno AI.
 
 ---
 
