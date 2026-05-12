@@ -26,7 +26,7 @@ O projeto busca demonstrar como ferramentas de IA podem auxiliar no desenvolvime
 
 | Tipo | Acesso |
 |------|------|
-| 📁 Repositório GitHub | [Acessar Projeto](https://github.com/Pedroloopess/portfolio-pedro-lucas-machado-lopes/tree/main/forma-gerador-de-formas-organicas) |
+| 📁 Repositório GitHub | [Acessar Projeto](https://github.com/Pedroloopess/portfolio-pedro-lucas-machado-lopes/tree/main/gerador-de-formas-organicas) |
 
 ---
 
