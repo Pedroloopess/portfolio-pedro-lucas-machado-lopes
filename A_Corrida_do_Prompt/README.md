@@ -37,7 +37,7 @@ Desenvolver a capacidade de:
 
 | Tecnologia | Função |
 |---|---|
-| ChatGPT | Geração e refinamento de respostas |
+| QWEN.AI | Geração e refinamento de respostas |
 | Engenharia de Prompt | Estruturação das instruções |
 | Inteligência Artificial Generativa | Produção de conteúdo |
 | GitHub | Organização e documentação |
