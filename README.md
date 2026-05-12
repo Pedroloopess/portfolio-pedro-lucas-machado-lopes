@@ -99,7 +99,7 @@ Abaixo, a organização deste repositório para facilitar a navegação:
 - `/Batalha_de_Modelos/`: Comparação e análise de modelos de IA.
 - `/Engenharia_Reversa/`: Documentação e análise reversa de sistemas.
 - `/Do_Clone_ao_MVP/`: Desenvolvimento de produto digital e MVP.
-- `/_nexus_flow_.ai/`: Aplicações com IA e Bubble.io.
+- `/entrega_orcafacil_bubble_/`: Aplicações com IA e Bubble.io utilizando Bubble.io.
 - `/devconnect-web/`: Aplicação de videoconferência com Manus AI e Jitsi Meet.
 - `/organizador-de-arquivos-python/`: Sistema organizador de arquivos em Python.
 - `/site-de-vendas-eletronicos/`: Projeto de e-commerce para venda de eletrônicos.
