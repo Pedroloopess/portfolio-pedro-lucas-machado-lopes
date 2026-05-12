@@ -34,10 +34,15 @@ Também possuo experiência como freelancer, atuando diretamente com atendimento
 #### 💻 Linguagens e Tecnologias
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 
 ---
@@ -45,6 +50,7 @@ Também possuo experiência como freelancer, atuando diretamente com atendimento
 #### 🗄️ Banco de Dados
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ---
@@ -52,7 +58,9 @@ Também possuo experiência como freelancer, atuando diretamente com atendimento
 #### 🤖 Inteligência Artificial & Desenvolvimento
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
 ![Bubble](https://img.shields.io/badge/Bubble.io-120B2D?style=for-the-badge&logo=bubble&logoColor=white)
+
 ![Jitsi](https://img.shields.io/badge/Jitsi-97979A?style=for-the-badge&logo=jitsi&logoColor=white)
 
 ---
