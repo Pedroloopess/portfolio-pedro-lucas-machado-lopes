@@ -10,12 +10,12 @@ Este projeto foi desenvolvido com foco em criatividade, design visual, manipula�
 
 ---
 
-## 🔗 Links do Projeto
+## 🔗 Link do Projeto
 
 | Tipo | Link |
 |------|------|
 | 🌐 Visualizar Projeto | [Abrir no AI Studio](https://forma-gerador-de-formas-org-nicas-587366014635.us-east1.run.app) |
-| 📁 Repositório | [GitHub](https://github.com/Pedroloopess/portfolio-pedro-lucas-machado-lopes/tree/main/gerador-de-formas-organicas) |
+
 
 ---
 
@@ -246,7 +246,6 @@ Desenvolvido por **Pedro Lucas Machado Lopes**
 | Rede | Link |
 |------|------|
 | GitHub | [Pedroloopess](https://github.com/Pedroloopess) |
-| Portfólio | [portfolio-pedro-lucas-machado-lopes](https://github.com/Pedroloopess/portfolio-pedro-lucas-machado-lopes) |
 
 ---
 
