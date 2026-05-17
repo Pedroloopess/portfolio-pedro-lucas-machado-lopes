@@ -127,12 +127,9 @@ http://localhost:3000
 
 ## 🖼️ Prévia do Projeto
 
-> Adicione aqui um print da aplicação funcionando.
+A interface do projeto permite gerar formas orgânicas em SVG, alterar a complexidade, irregularidade, tamanho e cor da forma, além de copiar o SVG ou baixar o arquivo gerado.
 
-```md
-![Preview do Projeto](./assets/preview.png)
-```
-
+![Prévia do Projeto](./assets/preview.png)
 ---
 
 ## 🧩 Exemplo de Uso
