@@ -33,6 +33,7 @@ Desenvolver a capacidade de:
 
 ---
 
+
 # 🛠️ Tecnologias Utilizadas
 
 | Tecnologia | Função |
@@ -94,6 +95,29 @@ A atividade teve foco nos seguintes critérios:
 
 > Os prints e registros das interações demonstram a evolução dos prompts ao longo do desenvolvimento.
 
+# 📸 Registros do Processo
+
+## Imagem gerada no projeto
+
+A imagem abaixo representa um dos resultados visuais criados durante a atividade.
+
+![Imagem Barroco Marte](./imagem-barroco-marte.jpg)
+
+📎 [Abrir imagem em JPG](./imagem-barroco-marte.jpg)
+
+---
+
+## Textos utilizados
+
+Os arquivos de texto utilizados no projeto estão organizados na pasta abaixo:
+
+📁 [Acessar pasta Textos](./Textos)
+
+Arquivos principais:
+
+- 📄 [Prompts utilizados](./Textos/Prompts.txt)
+- 📄 [Carta do pirata ao rei](./Textos/Carta-pirata-rei.txt)
+
 ---
 
 # 📂 Estrutura do Projeto
@@ -105,3 +129,13 @@ A atividade teve foco nos seguintes critérios:
  ┃ ┗ 📜 Carta-pirata-rei.txt
  ┣ 🖼️ imagem-barroco-marte.jpg
  ┗ 📜 README.md
+```
+
+## 🔗 Acesso Rápido aos Arquivos
+
+| Item | Link |
+|---|---|
+| 📁 Pasta de Textos | [Abrir pasta](./Textos) |
+| 📄 Prompts utilizados | [Abrir arquivo](./Textos/Prompts.txt) |
+| 📄 Carta do pirata ao rei | [Abrir arquivo](./Textos/Carta-pirata-rei.txt) |
+| 🖼️ Imagem JPG | [Abrir imagem](./imagem-barroco-marte.jpg) |
